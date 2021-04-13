@@ -1,1 +1,1 @@
-<img src="IPT1.png" alt="drawing" width="600"/>
+<img src="IPT1.PNG" alt="drawing" width="600"/>
